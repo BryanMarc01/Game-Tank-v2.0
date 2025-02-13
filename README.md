@@ -1,2 +1,2 @@
 # Tank2.0
- Este es el script 1190040
+This is "Tank" made it in Unity for learning.
